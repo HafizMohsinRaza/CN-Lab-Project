@@ -1,7 +1,5 @@
 # CN-Lab-Project
 CN-Lab Project
-﻿
-Description:
 2. We Design a network in CISCO packet tracer to connect ACCOUNTS and DELIVERY departments through the following: 
 a. Each department should contain at least 2 PCs.
 b. Appropriate number of switches and routers should be used in the network.
