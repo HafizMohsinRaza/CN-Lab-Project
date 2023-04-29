@@ -1,0 +1,20 @@
+Network Address given: 192.168.40.0
+No.of Subnets=2
+2^n=No.of Subnets = 2^n=2
+N=1
+255.255.255.255
+11111111.11111111.11111111.10000000
+Subnet mask=255.255.255.128
+
+1st Subnet
+Subnet Mask = 255.255.255.128
+Network ID = 192.168.40.0
+Range of Valid Host=192.168.40.1 - 192.168.40.126
+Broadcast ID= 192.168.40.127
+
+
+2nd Subnet
+Subnet Mask = 255.255.255.128
+Network ID = 192.168.40.128
+Range of Valid Host=192.168.40.129 - 192.168.40.254
+Broadcast ID= 192.168.40.255
